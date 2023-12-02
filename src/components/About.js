@@ -10,7 +10,13 @@ const About = () => {
       <div class="about-header">
         <div class="container">
           <h1>About Us</h1>
-          <p>Castro Driving School Online System's Mission and Vision</p>
+          <p>Driving School Online System's Mission is to give people skills about Driving in different area
+            all over the world especially in Rwanda. Driving School Online System will be help you when travelling 
+            because it teach about skills to help you knowing the road rules even Driving so that it may easier your 
+            practices and exams about Driving License.
+
+    
+          </p>
         </div>
       </div>
 
@@ -20,15 +26,17 @@ const About = () => {
             <div class="col-lg-4">
               <h2>Our Story</h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
-                auctor eleifend nunc, at convallis elit convallis id.
+                It's a project thought when I was studying.I was passionate about how our system work in our country
+                and how Tourists and other people struggle while learning to drive an mixing with other things like work and 
+                others. 
+
               </p>
             </div>
             <div class="col-lg-4">
               <h2>Our Team</h2>
               <p>
                 We have a diverse team of passionate individuals dedicated to
-                bringing you the best learning experience.
+                bring you the best learning experience.
               </p>
             </div>
           </div>

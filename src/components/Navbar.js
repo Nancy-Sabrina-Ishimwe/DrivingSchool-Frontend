@@ -17,7 +17,7 @@ const Navbar = () => {
   return (
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <Link class="navbar-brand" to="/">
-        Garage
+        Driving
       </Link>
       <button
         class="navbar-toggler"

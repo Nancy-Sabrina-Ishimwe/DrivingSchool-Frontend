@@ -13,10 +13,10 @@ const Footer = () => {
       <div class="container">
         <div class="row">
           <div class="col-md-4">
-            <h4>Castro Driving School Online Management System</h4>
+            <h4>Driving School Online Management System</h4>
             <p>Address: Nyarugenge, Kigali, Rwanda</p>
-            <p>Email: fideluwiringiyima@gmail.com</p>
-            <p>Phone: +250 788843907</p>
+            <p>Email: ishimwenancysabrina1@gmail.com</p>
+            <p>Phone: +250 782592282</p>
           </div>
           <div class="col-md-4">
             <h4>Quick Links</h4>

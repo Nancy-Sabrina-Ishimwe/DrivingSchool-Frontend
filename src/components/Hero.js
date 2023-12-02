@@ -11,7 +11,7 @@ const Hero = () => {
             <h2 class="display-4">Join Our Community</h2>
             <p class="lead">
               Be part of our awesome community and stay updated with the latest
-              skills and knowledge.
+              skills and knowledge about Driving.
             </p>
             <Link class="btn btn-secondary btn-lg" to="/register">
               Sign Up Now

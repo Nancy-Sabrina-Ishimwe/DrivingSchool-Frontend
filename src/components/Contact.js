@@ -12,8 +12,8 @@ const Contact = () => {
       <div class="col-md-6">
         <h4>Contact Information</h4>
         <p><strong>Address:</strong> Nyarugenge, Kigali, Rwanda</p>
-        <p><strong>Email:</strong> fideluwiringiyima@gmail.com</p>
-        <p><strong>Phone:</strong> +250 788843907</p>
+        <p><strong>Email:</strong> ishimwenancysabrina1@gmail.com</p>
+        <p><strong>Phone:</strong> +250 782592282</p>
       </div>
       <div class="col-md-6">
         <h4>Contact Form</h4>
